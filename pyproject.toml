@@ -1,0 +1,8 @@
+[tool.flet.app]
+product_name = "We Work Solutions"
+description = "Management and project ordering app"
+company_name = "We Work Projects"
+copyright = "Copyright (C) 2026 E Seshadri"
+
+[tool.flet.flutter]
+platforms = ["android"]
